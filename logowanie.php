@@ -29,7 +29,7 @@
     }else{
         echo ('<li>ZALOGOWANY ');
         echo '<li><a href="logowanie.php?akcja=wyloguj">Wyloguj</a>';
-        echo '<li><a href="html.html">plik1</a>';
+        echo '<li><a href="plik.html">plik1</a>';
 
     }
     
